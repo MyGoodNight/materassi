@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Good Night materasso ortopedico",
-    "currentPage": "page1.html",
+    "currentPage": "materassi_ortopedici.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -558,9 +558,9 @@
         }
       ]
     },
-    "page1.html": {
+    "materassi_ortopedici.html": {
       "settings": {
-        "title": "Page 1",
+        "title": "Materassi Ortopedici",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
